@@ -42,8 +42,11 @@ namespace bisectionMethodNamespace
         
         public static void Main(string[] args)
         {
+            Console.WriteLine("F(x) => Math.Pow(x, 3) - 4 * Math.Pow(x, 2) - 4 * x + 16");
             double a = -5;
+            Console.WriteLine("a = {0}", a);
             double b = 0;
+            Console.WriteLine("b = {0}", b);
             double eps = 1e-3;
             // get epsilon input:
             Console.WriteLine("Enter epsilon:");
