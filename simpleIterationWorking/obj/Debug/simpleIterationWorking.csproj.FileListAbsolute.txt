@@ -1,0 +1,6 @@
+/Users/yurii/RiderProjects/simpleIterationWorking/simpleIterationWorking/bin/Debug/simpleIterationWorking.exe
+/Users/yurii/RiderProjects/simpleIterationWorking/simpleIterationWorking/bin/Debug/simpleIterationWorking.pdb
+/Users/yurii/RiderProjects/simpleIterationWorking/simpleIterationWorking/obj/Debug/simpleIterationWorking.csproj.AssemblyReference.cache
+/Users/yurii/RiderProjects/simpleIterationWorking/simpleIterationWorking/obj/Debug/simpleIterationWorking.csproj.CoreCompileInputs.cache
+/Users/yurii/RiderProjects/simpleIterationWorking/simpleIterationWorking/obj/Debug/simpleIterationWorking.exe
+/Users/yurii/RiderProjects/simpleIterationWorking/simpleIterationWorking/obj/Debug/simpleIterationWorking.pdb
